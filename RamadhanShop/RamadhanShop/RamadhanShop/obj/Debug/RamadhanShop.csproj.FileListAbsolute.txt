@@ -1,0 +1,2 @@
+c:\users\f2021065290\documents\visual studio 2013\Projects\RamadhanShop\RamadhanShop\bin\Debug\RamadhanShop.exe.config
+c:\users\f2021065290\documents\visual studio 2013\Projects\RamadhanShop\RamadhanShop\obj\Debug\RamadhanShop.csprojResolveAssemblyReference.cache
